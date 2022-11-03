@@ -1,4 +1,4 @@
-DEAD-XD
+
  <html>
 <p>pkg update<br></p>
 <p>pkg upgrade<br></p>
